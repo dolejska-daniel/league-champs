@@ -1,0 +1,10 @@
+C:\Users\DanielKronnY\Work\Programming\_projects\LeagueChamps\LeagueChamps\bin\Release\LeagueChamps.exe.config
+C:\Users\DanielKronnY\Work\Programming\_projects\LeagueChamps\LeagueChamps\bin\Release\LeagueChamps.exe
+C:\Users\DanielKronnY\Work\Programming\_projects\LeagueChamps\LeagueChamps\bin\Release\LeagueChamps.pdb
+C:\Users\DanielKronnY\Work\Programming\_projects\LeagueChamps\LeagueChamps\obj\Release\LeagueChamps.mainForm.resources
+C:\Users\DanielKronnY\Work\Programming\_projects\LeagueChamps\LeagueChamps\obj\Release\LeagueChamps.settingsForm.resources
+C:\Users\DanielKronnY\Work\Programming\_projects\LeagueChamps\LeagueChamps\obj\Release\LeagueChamps.helpForm.resources
+C:\Users\DanielKronnY\Work\Programming\_projects\LeagueChamps\LeagueChamps\obj\Release\LeagueChamps.Properties.Resources.resources
+C:\Users\DanielKronnY\Work\Programming\_projects\LeagueChamps\LeagueChamps\obj\Release\LeagueChamps.csproj.GenerateResource.Cache
+C:\Users\DanielKronnY\Work\Programming\_projects\LeagueChamps\LeagueChamps\obj\Release\LeagueChamps.exe
+C:\Users\DanielKronnY\Work\Programming\_projects\LeagueChamps\LeagueChamps\obj\Release\LeagueChamps.pdb
